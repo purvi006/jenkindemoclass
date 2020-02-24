@@ -8,7 +8,7 @@ public class jenkinDemo
 	@Test
 	public void demo()
 	{
-		Reporter.log("hiiiiiiiiiiii",true);
+		Reporter.log("hiiiiiiiiiiiii",true);
 	}
 
 }
